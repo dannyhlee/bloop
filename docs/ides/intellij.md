@@ -24,18 +24,18 @@ with IntelliJ.
 
 ## Installation
 
-First, install the latest
-[2020.1 IntelliJ IDEA EAP](https://www.jetbrains.com/community/eap/). The 2020.1
+First, install 
+[2020.1 IntelliJ IDEA EAP](https://www.jetbrains.com/community/eap/) or above. The 2020.1
 version includes several important fixes for the BSP integration that are not
 available in the 2019.3 version.
 
 Next, install the IntelliJ Scala plugin and restart IntelliJ. If everything is
 configured correctly, the Scala plugin should appear under the list of
-"Downloaded" plugins when you open `Preferences > Plugins`.
+"Downloaded" plugins when you open `File > Settings > Plugins | Installed` (`CTRL+ALT+S`).
 
 ![Screenshot of the Plugins view showing the Scala plugin is installed](https://i.imgur.com/hBq2DcS.png)
 
-At the time of this writing, the version of the Scala plugin is 2020.1.966.
+At the time of this edit, the version of the Scala plugin is 2020.2.49.
 
 ## Export a Bloop build
 
